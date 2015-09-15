@@ -11,26 +11,26 @@ together.
 - [x] polygon
 
 ### Measurement
-- [] along
-- [] area
+- [ ] along
+- [ ] area
 - [x] bearing
-- [] centroid
-- [] destination
+- [ ] centroid
+- [ ] destination
 - [x] distance
-- [] envelope
-- [] lineDistance
-- [] midpoint
+- [ ] envelope
+- [ ] lineDistance
+- [ ] midpoint
 
 ### Transformation
-- [] simplify
+- [ ] simplify
 
 ### Joins
-- [] inside
+- [ ] inside
 
 ### Misc
-- [] kinks
+- [ ] kinks
 
 
 ### New --- should exist
-- [] identity (added by yifei)
-- [] lineIntersect
+- [ ] identity (added by yifei)
+- [ ] lineIntersect
